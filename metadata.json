@@ -1,0 +1,6 @@
+{
+  "name": "دفتر تلفن",
+  "description": "برنامه دفتر تلفن آفلاین و کامل فارسی با قابلیت پشتیبان‌گیری و تاریخ شمسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
